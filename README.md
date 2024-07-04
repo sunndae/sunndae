@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás Solar</h1>
 <h3 align="center">A Computer science student from Chile 🇨🇱</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunndae](https://github.com/sunndae)
 
