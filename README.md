@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomás Solar</h1>
 <h3 align="center">A Computer science student from Chile 🇨🇱</h3>
 
-- 🔭 I’m currently working on **a Microservices project**
+- 🔭 I’m currently working on **Buk - Human Resources Software**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Groovy on Grails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunndae](https://github.com/sunndae)
 
