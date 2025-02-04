@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Buk - Human Resources Software**
 
-- 🌱 I’m currently learning **Groovy on Grails**
+- 🌱 I’m currently working with **Groovy on Grails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunndae](https://github.com/sunndae)
 
