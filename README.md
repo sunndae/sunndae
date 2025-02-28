@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Solar</h1>
-<h3 align="center">A Computer science student from Chile 🇨🇱</h3>
+<h3 align="center">A Computer engineering student from Chile 🇨🇱</h3>
 
 - 🔭 I’m currently working at **Buk - Human Resources Software**
 
